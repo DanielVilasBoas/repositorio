@@ -5,7 +5,7 @@ Todas as questões ("questao_01.java", "questao_02.java" e "questao_03.java") fo
 
 ### Questão 01
 
-Ao rodar o código abrirá na tela um textbox solicitando um número n para definir a quantidade de degraus da escada. O valor digitado terá como resultado a base e altura da escada em caracteres *. O resultado será apresentado no Console do eclipse.
+Ao rodar o código abrirá na tela um textbox solicitando um número para definir a quantidade de degraus da escada. O valor digitado terá como resultado a base e altura da escada em caracteres *. O resultado será apresentado no Console do eclipse.
 
 ### Questão 02
 
