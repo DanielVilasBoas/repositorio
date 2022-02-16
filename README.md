@@ -1,7 +1,7 @@
 # Desafio de Programação Capgemini
 ## Informação geral:
 
-Todas as questões ("questao_01.java", "questao_02.java" e "questao_03.java") foram desenvolvidas utilizando linguagem Java. Para reproduzir os códigos é recomendado utilizar a IDE eclipse.
+Todas as questões ("Questao_01.java", "Questao_02.java" e "Questao_03.java") foram desenvolvidas utilizando a linguagem Java. Para reproduzir os códigos é recomendado utilizar a IDE eclipse.
 
 ### Questão 01
 
