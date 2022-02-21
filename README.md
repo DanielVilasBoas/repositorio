@@ -1,4 +1,4 @@
-# Desafio de Programação Capgemini
+# Desafio de Programação
 ### Informação geral:
 
 Todas as questões ("Questao_01.java", "Questao_02.java" e "Questao_03.java") foram desenvolvidas utilizando a linguagem Java na versão 11. Para reproduzir os códigos é recomendado utilizar a IDE eclipse.
